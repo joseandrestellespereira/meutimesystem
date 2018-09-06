@@ -1,0 +1,27 @@
+
+		
+		#example2 tr td{
+		  padding:10px 10px;
+		  text-align: center;
+		  
+		  cursor: pointer; /**importante para não mostrar cursor de texto**/
+		}
+
+		#example2 tr td:last-child{
+		  text-align: right;
+		}
+
+		/**Cores**/
+		#example2 tr:nth-child(odd){
+		  background-color: #eee;
+		}
+
+		/**Cor quando passar por cima**/
+		#example2 tr:hover td{
+		  background-color: #feffb7;
+		}
+
+		/**Cor quando selecionado**/
+		#example2 tr.selecionado td{
+		  background-color: #aff7ff;
+		}

@@ -1,0 +1,9 @@
+Apresentação 1º Bimestre:
+- Nome e título;
+- Introdução;
+- Requisitos;
+- Tecnologias utilizadas;
+- Oque está feito?
+- Oque falta fazer? (Diagrama sequencia, diagrama de classe, diagrama de atividade)
+- Apresentação Básica;
+- Fim
